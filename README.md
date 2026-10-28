@@ -18,9 +18,10 @@ delivering a clear breakdown of their financial activity.
 - datetime
 
 ## How to run
-
+```
 pip install pandas
-python finance_tracker.py
+python PersonalFinanceTracker.py
+```
 
 ## Key features
 - `PersonAccount` base class handles core account logic
@@ -29,4 +30,4 @@ python finance_tracker.py
 - Full financial summary including savings rate and category breakdowns
 
 ## Author
-Doyin Oyedijo — github.com/DoyinO�ydijo
+Doyin Oyedijo — [github.com/DoyinOyedijo](https://github.com/DoyinOyedijo)
