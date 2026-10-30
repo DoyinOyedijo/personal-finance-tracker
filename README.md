@@ -1,7 +1,6 @@
 # Personal Finance Tracker
 
-A Python program that tracks and analyzes an individual's income and expenses, 
-delivering a clear breakdown of their financial activity.
+Python income and expense tracker with OOP and CSV persistence
 
 ## What it does
 - Accepts income and expense transactions with a description, amount, and source
